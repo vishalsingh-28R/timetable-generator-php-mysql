@@ -11,7 +11,16 @@ A PHP and MySQL web application for managing academic timetable information. It 
 - Generate and view timetables.
 - Check teacher time-slot conflicts.
 - Store application data in a MySQL database.
+## Screenshots
 
+### 1. Generated Timetable
+![Generated Timetable](screenshots/Time_Table_Generator_01_Generated_Timetable.png)
+
+### 2. Admin Dashboard
+![Admin Dashboard](screenshots/Time_Table_Generator_02_Admin_Dashboard.png)
+
+### 3. Subject Allocation
+![Subject Allocation](screenshots/Time_Table_Generator_03_Subject_Allocation.png)
 ## Technologies Used
 
 - PHP
